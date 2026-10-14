@@ -1,6 +1,8 @@
 # 50 Startups 多元線性回歸探索器 (Multiple Linear Regression Explorer)
 
-一個專為 **GitHub Pages** 設計的純前端 (Pure Frontend: HTML5 / Vanilla CSS / Modern JavaScript) 統計機器學習探索應用。
+[一個專為 **GitHub Pages** 設計的純前端 (Pure Frontend: HTML5 / Vanilla CSS / Modern JavaScript) 統計機器學習探索應用。](https://a9110118888.github.io/ML-Regression-Web/)
+<img width="1385" height="971" alt="image" src="https://github.com/user-attachments/assets/b0167a8d-db36-4628-bb19-52f218b152b0" />
+
 
 ---
 
